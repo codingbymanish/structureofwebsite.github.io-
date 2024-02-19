@@ -1,0 +1,76 @@
+.head{
+    height: 40px;
+}
+
+
+.heads{
+    height: 100px;
+}
+.nav{
+    height: 60px;
+}
+
+.image{
+    height: 150px;
+}
+
+.Clients{
+    height: 50px;
+}
+
+.ourimage{
+    height: 100px;
+}
+.content{
+    height: 35px;
+}
+
+.project{
+width: 200px;
+height: 150px;
+
+}
+
+.Quick{
+    height: 50px;
+}
+.form{
+    height: 130px;
+}
+.services{
+    height: 350px;
+}
+
+.lastimage{
+    height: 350px;
+}
+
+.call{
+
+    height: 60px;
+}
+.links{
+    height:300px;
+}
+
+.contact{
+    height: 300px;
+}
+.follow{
+    height: 50px;
+}
+.footer{
+    height: 70px;
+}
+
+.footers{
+
+    height: 30px;
+}
+
+
+.logo{
+    position: fixed;
+    top: 85%;
+    left: 2%;
+}
